@@ -129,6 +129,11 @@
     transition: opacity 0.3s ease-in-out;
   }
 
+  .nav-search__btn-open,
+  .nav-search__btn-close {
+    cursor: pointer;
+  }
+
   .nav-search__btn-open {
     height: 32px;
     width: 32px;
